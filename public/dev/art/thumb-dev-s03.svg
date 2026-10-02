@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Dapur Tengah Malam">
+  <defs>
+    <linearGradient id="skytdev-s03" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(30 55% 9%)"/><stop offset=".55" stop-color="hsl(48 62% 24%)"/><stop offset="1" stop-color="hsl(64 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="suntdev-s03" cx="0.55" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(70 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(60 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(30 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadetdev-s03" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gtdev-s03"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="640" height="360" fill="url(#skytdev-s03)"/>
+  <rect width="640" height="360" fill="url(#suntdev-s03)"/>
+  <circle cx="352" cy="176.39999999999998" r="27" fill="hsl(75 95% 82%)" opacity=".92"/>
+  <path d="M0 360 L0 223.67137497796608 L40 224.35446334276588 L80 226.62319259661774 L120 229.87695827944825 L160 233.3200117982392 L200 236.11776642948203 L240 237.56053088423164 L280 237.20359895564116 L320 234.95708173835595 L360 231.10834800361056 L400 226.27265251172813 L440 221.28108565733888 L480 217.02681682421854 L520 214.29849691308718 L560 213.6321445668761 L600 215.20940102486256 L640 218.8213467346081 L640 360 Z" fill="hsl(40 40% 13%)"/><path d="M0 360 L0 247.33628163395193 L40 248.08537981415475 L80 250.70056928961102 L120 254.48225469301136 L160 258.5025665426559 L200 261.7877005827354 L240 263.5089444733618 L280 263.1461416230755 L320 260.5925421598566 L360 256.18104925093866 L400 250.62670154068033 L440 244.89604443405017 L480 240.02785460920464 L520 236.93889037304854 L560 236.2512091397208 L600 238.1735803548521 L640 242.45938179737857 L640 360 Z" fill="hsl(40 40% 9%)"/><path d="M0 360 L0 273.3338565306107 L40 276.25727596211203 L80 280.83984977584277 L120 286.3998654534629 L160 292.06073255881637 L200 296.91012251973166 L240 300.16642730715654 L280 301.32137000706615 L320 300.2320654076179 L360 297.1453180735903 L400 292.6496725711735 L440 287.5642993956071 L480 282.7856561587076 L520 279.1207748531806 L560 277.13850375859954 L600 277.06661150601525 L640 278.75398676918877 L640 360 Z" fill="hsl(40 40% 5%)"/>
+  <rect width="640" height="360" filter="url(#gtdev-s03)" opacity=".09"/>
+  <rect width="640" height="360" fill="url(#fadetdev-s03)"/></svg>
