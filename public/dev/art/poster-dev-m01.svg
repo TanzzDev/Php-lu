@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Hujan di Ujung Dermaga">
+  <defs>
+    <linearGradient id="skypdev-m01" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(205 55% 9%)"/><stop offset=".55" stop-color="hsl(223 62% 24%)"/><stop offset="1" stop-color="hsl(239 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-m01" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(245 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(235 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(205 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-m01" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-m01"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-m01)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-m01)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(250 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 567.3948979638244 L37.5 563.2945356534416 L75 563.5465607140982 L112.5 568.3537775096407 L150 576.9834733628758 L187.5 587.8993831077267 L225 599.0479479679437 L262.5 608.245055191011 L300 613.5904105915258 L337.5 613.8313843081785 L375 608.6075849952555 L412.5 598.5297894492878 L450 585.0779724383019 L487.5 570.3371865037325 L525 556.6205306402602 L562.5 546.0496786531623 L600 540.171414451854 L600 900 Z" fill="hsl(215 40% 13%)"/><path d="M0 900 L0 631.1600935655242 L37.5 625.9111543367028 L75 625.6792109508614 L112.5 630.7193056141256 L150 640.1965285760327 L187.5 652.3392784507005 L225 664.7725050242811 L262.5 674.9681774934896 L300 680.7280145007462 L337.5 680.6073143526521 L375 674.1997061920093 L412.5 662.2287408104884 L450 646.4285406383065 L487.5 629.2353971315831 L525 613.3477701442017 L562.5 601.2369098004237 L600 594.699622478801 L600 900 Z" fill="hsl(215 40% 9%)"/><path d="M0 900 L0 682.1175784071323 L37.5 673.6697142764114 L75 670.4374205851555 L112.5 672.7456388248512 L150 679.9492546488028 L187.5 690.5619918072654 L225 702.5409187459846 L262.5 713.6728157201198 L300 721.9895676359048 L337.5 726.1343871592792 L375 725.6100399782188 L412.5 720.8625712370332 L450 713.1851097657978 L487.5 704.460297462773 L525 696.790353150177 L562.5 692.0849929930486 L600 691.6853956231809 L600 900 Z" fill="hsl(215 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-m01)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-m01)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Hujan di</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Ujung Dermaga</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
