@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Dapur Tengah Malam">
+  <defs>
+    <linearGradient id="skypdev-s03" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(18 55% 9%)"/><stop offset=".55" stop-color="hsl(36 62% 24%)"/><stop offset="1" stop-color="hsl(52 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-s03" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(58 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(48 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(18 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-s03" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-s03"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-s03)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-s03)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(63 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 566.4204750107187 L37.5 577.9640883487191 L75 591.0967467894442 L112.5 603.5948958703215 L150 613.2770617482049 L187.5 618.4087227071657 L225 618.0259141455356 L262.5 612.1167184860869 L300 601.6264555945291 L337.5 588.2854927247593 L375 574.2919036890991 L412.5 561.9084536663067 L450 553.049439629338 L487.5 548.9347557298817 L525 549.8758341421632 L562.5 555.2332326699506 L600 563.553288731727 L600 900 Z" fill="hsl(28 40% 13%)"/><path d="M0 900 L0 630.0232667869011 L37.5 643.0256324811933 L75 657.8210947054317 L112.5 671.8339437015865 L150 682.5390483589168 L187.5 687.9335079833793 L225 686.9134655648049 L262.5 679.4851180044114 L300 666.7700670042501 L337.5 650.8037741719963 L375 634.1647446681601 L412.5 619.5038490636771 L450 609.0619190278487 L487.5 604.2658945620905 L525 605.4789575630884 L562.5 611.9510561533432 L600 621.9784758053195 L600 900 Z" fill="hsl(28 40% 9%)"/><path d="M0 900 L0 681.1431554540267 L37.5 688.3392669716889 L75 697.9876066605015 L112.5 707.9867571855319 L150 716.242843034132 L187.5 721.0713314067043 L225 721.5188849235765 L262.5 717.5444790151957 L300 710.0256126389081 L337.5 700.58849557586 L375 691.2943586720623 L412.5 684.2412354540521 L450 681.156576956834 L487.5 683.0578666889222 L525 690.04565665208 L562.5 701.2685470098368 L600 715.0672699030538 L600 900 Z" fill="hsl(28 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-s03)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-s03)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Dapur Tengah</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Malam</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
