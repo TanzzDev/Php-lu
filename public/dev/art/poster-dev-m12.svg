@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Penjaga Musim Hujan">
+  <defs>
+    <linearGradient id="skypdev-m12" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(225 55% 9%)"/><stop offset=".55" stop-color="hsl(243 62% 24%)"/><stop offset="1" stop-color="hsl(259 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-m12" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(265 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(255 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(225 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-m12" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-m12"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-m12)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-m12)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(270 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 561.5845689674319 L37.5 570.2319860347582 L75 581.9249646774608 L112.5 594.7111467074108 L150 606.3548007564119 L187.5 614.751914416853 L225 618.3234011632674 L262.5 616.3124623990055 L300 608.9300930737429 L337.5 597.3212183467493 L375 583.3576340260472 L412.5 569.2964532232312 L450 557.3680114760037 L487.5 549.3703991160927 L525 546.3464857761455 L562.5 548.4037251967079 L600 554.7101144570989 L600 900 Z" fill="hsl(235 40% 13%)"/><path d="M0 900 L0 624.3813764030663 L37.5 634.0048464482388 L75 647.1206822414512 L112.5 661.4695696781907 L150 674.4630772018251 L187.5 683.6672316446811 L225 687.2605337521588 L262.5 684.3801525694831 L300 675.2909773966662 L337.5 661.3454540643181 L375 644.7414300612663 L412.5 628.123181880089 L450 614.1002528489586 L487.5 604.7741451793366 L525 601.3613844694012 L562.5 603.9832974345602 L600 611.6614391515868 L600 900 Z" fill="hsl(235 40% 9%)"/><path d="M0 900 L0 676.3072494107398 L37.5 680.6071646577279 L75 688.8158245485181 L112.5 699.1030080226212 L150 709.320582042339 L187.5 717.4145231163916 L225 721.8163719413083 L262.5 721.7402229281143 L300 717.3292501181219 L337.5 709.62422119785 L375 700.3600890090105 L412.5 691.6292350109766 L450 685.4751488034997 L487.5 683.4935100751333 L525 686.5163082860623 L562.5 694.4390395365941 L600 706.2240956284257 L600 900 Z" fill="hsl(235 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-m12)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-m12)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Penjaga Musim</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Hujan</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
