@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Rumah di Balik Kabut">
+  <defs>
+    <linearGradient id="skypdev-m07" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(150 55% 9%)"/><stop offset=".55" stop-color="hsl(168 62% 24%)"/><stop offset="1" stop-color="hsl(184 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-m07" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(190 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(180 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(150 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-m07" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-m07"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-m07)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-m07)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(195 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 567.3954670735666 L37.5 579.2926267319514 L75 592.5285712195729 L112.5 604.8602898092375 L150 614.1376596076651 L187.5 618.7024114023018 L225 617.6973707635191 L262.5 611.2278316088915 L300 600.3446671837829 L337.5 586.8522566385334 L375 572.9772023828787 L412.5 560.959940886948 L450 552.6457892266633 L487.5 549.1520043931141 L525 550.6730581685617 L562.5 556.4602568704536 L600 564.9789753267494 L600 900 Z" fill="hsl(160 40% 13%)"/><path d="M0 900 L0 631.1607575268902 L37.5 644.5755939282975 L75 659.491556540582 L112.5 673.3102366303219 L150 683.5430791949537 L187.5 688.2761447943714 L225 686.5301649524524 L262.5 678.4480833143501 L300 665.2746471917129 L337.5 649.1316654047328 L375 632.6309264775697 L412.5 618.3972508210918 L450 608.5909935580615 L487.5 604.5193513358615 L525 606.4090522605535 L562.5 613.3825843872635 L600 623.6417768328456 L600 900 Z" fill="hsl(160 40% 9%)"/><path d="M0 900 L0 682.1181475168745 L37.5 689.6678053549211 L75 699.4194310906302 L112.5 709.252151124448 L150 717.1034408935922 L187.5 721.3650201018404 L225 721.19034154156 L262.5 716.6555921380003 L300 708.7438242281619 L337.5 699.1552594896341 L375 689.979657365842 L412.5 683.2927226746933 L450 680.7529265541592 L487.5 683.2751153521547 L525 690.8428806784785 L562.5 702.4955712103398 L600 716.4929564980762 L600 900 Z" fill="hsl(160 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-m07)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-m07)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Rumah di</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Balik Kabut</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
