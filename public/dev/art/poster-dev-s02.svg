@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Jejak di Pasar Malam">
+  <defs>
+    <linearGradient id="skypdev-s02" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(40 55% 9%)"/><stop offset=".55" stop-color="hsl(58 62% 24%)"/><stop offset="1" stop-color="hsl(74 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-s02" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(80 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(70 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(40 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-s02" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-s02"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-s02)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-s02)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(85 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 606.8151860064964 L37.5 599.3713593085553 L75 589.4840337141189 L112.5 579.2659897683463 L150 570.8148627236226 L187.5 565.8119469994964 L225 565.2023548899346 L262.5 569.0168886317878 L300 576.3691835794225 L337.5 585.6285573844692 L375 594.7357989297805 L412.5 601.6021091096679 L450 604.5156568802386 L487.5 602.4787079265958 L525 595.4113060202384 L562.5 584.1825874900715 L600 570.4632602984879 L600 900 Z" fill="hsl(50 40% 13%)"/><path d="M0 900 L0 677.1504296153083 L37.5 668.0007819343355 L75 655.9395961175524 L112.5 643.4502199159489 L150 632.9998161635707 L187.5 626.5706029910984 L225 625.2859797666038 L262.5 629.2019831743958 L300 637.3032496532924 L337.5 647.7040162749913 L375 658.0159557822884 L412.5 665.8131137475984 L450 669.1058391538993 L487.5 666.7338387915902 L525 658.6036747541763 L562.5 645.7253034434843 L600 630.0401092998738 L600 900 Z" fill="hsl(50 40% 9%)"/><path d="M0 900 L0 721.5378664498044 L37.5 709.746537931525 L75 696.3748935851762 L112.5 683.6578510835568 L150 673.7806440095496 L187.5 668.474555699035 L225 668.6953256679755 L262.5 674.4446491608966 L300 684.7683406238015 L337.5 697.9315602355699 L375 711.7382539127437 L412.5 723.9348908974133 L450 732.6227942077345 L487.5 736.6018188856364 L525 735.5811285301552 L562.5 730.2179018299577 L600 721.9772414698147 L600 900 Z" fill="hsl(50 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-s02)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-s02)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Jejak di</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Pasar Malam</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
