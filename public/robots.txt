@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /admin
-Disallow: /api/
-Disallow: /payment/
-Disallow: /account
-Disallow: /profile
