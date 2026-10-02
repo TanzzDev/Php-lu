@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Nadir">
+  <defs>
+    <linearGradient id="skypdev-m10" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(285 55% 9%)"/><stop offset=".55" stop-color="hsl(303 62% 24%)"/><stop offset="1" stop-color="hsl(319 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-m10" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(325 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(315 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(285 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-m10" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-m10"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-m10)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-m10)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(330 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 607.5916636091818 L37.5 600.4590113177885 L75 590.677976256972 L112.5 580.3413167441945 L150 571.5690119585299 L187.5 566.102857416297 L225 564.9752269274054 L262.5 568.314506982292 L300 575.3238577237506 L337.5 584.4371981065519 L375 593.6228257138245 L412.5 600.7771756509862 L450 604.134158066615 L487.5 602.6125076940955 L525 596.035200154343 L562.5 585.1790514099338 L600 571.6445874716865 L600 900 Z" fill="hsl(295 40% 13%)"/><path d="M0 900 L0 678.0563201517745 L37.5 669.2697092784408 L75 657.3325290842143 L112.5 644.7047680544383 L150 633.8796569376294 L187.5 626.9099984773658 L225 625.0209971436532 L262.5 628.3825379166508 L300 636.0837028216752 L337.5 646.3140971174212 L375 656.7174870303397 L412.5 664.8506913791365 L450 668.6607572046718 L487.5 666.8899385203399 L525 659.3315512439649 L562.5 646.8878446833237 L600 631.4183243352722 L600 900 Z" fill="hsl(295 40% 9%)"/><path d="M0 900 L0 722.3143440524897 L37.5 710.8341899407583 L75 697.5688361280293 L112.5 684.733178059405 L150 674.534793244457 L187.5 668.7654661158356 L225 668.4681977054463 L262.5 673.7422675114008 L300 683.7230147681296 L337.5 696.7402009576526 L375 710.6252806967877 L412.5 723.1099574387316 L450 732.2412953941109 L487.5 736.735618653136 L525 736.2050226642598 L562.5 731.21436574982 L600 723.1585686430133 L600 900 Z" fill="hsl(295 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-m10)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-m10)"/><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Nadir</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
