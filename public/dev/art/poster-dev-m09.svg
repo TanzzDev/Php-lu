@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Suara dari Menara">
+  <defs>
+    <linearGradient id="skypdev-m09" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(48 55% 9%)"/><stop offset=".55" stop-color="hsl(66 62% 24%)"/><stop offset="1" stop-color="hsl(82 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunpdev-m09" cx="0.62" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(88 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(78 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(48 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadepdev-m09" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gpdev-m09"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="600" height="900" fill="url(#skypdev-m09)"/>
+  <rect width="600" height="900" fill="url(#sunpdev-m09)"/>
+  <circle cx="372" cy="441" r="45" fill="hsl(93 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 565.954254817815 L37.5 562.6654690464612 L75 563.8475695793292 L112.5 569.5281600145387 L150 578.81000798267 L187.5 590.0340007065503 L225 601.0885450079419 L262.5 609.8072390345652 L300 614.379908554564 L337.5 613.6994765805383 L375 607.579119382925 L412.5 596.7985007277641 L450 582.9699880227979 L487.5 568.249592969232 L525 554.9465734778001 L562.5 545.1046855812124 L600 540.1333963036841 L600 900 Z" fill="hsl(58 40% 13%)"/><path d="M0 900 L0 629.4793432285134 L37.5 625.1772432952257 L75 626.0303879602976 L112.5 632.0894185365066 L150 642.3274856324593 L187.5 654.829665649328 L225 667.1532015709456 L262.5 676.7907253109695 L300 681.6490954576242 L337.5 680.4534220037385 L375 672.9998296442905 L412.5 660.2089039687106 L450 643.9692254868852 L487.5 626.7998713413325 L525 611.3948201213316 L562.5 600.1344178831488 L600 594.6552679726028 L600 900 Z" fill="hsl(58 40% 9%)"/><path d="M0 900 L0 680.6769352611229 L37.5 673.040647669431 L75 670.7384294503864 L112.5 673.9200213297491 L150 681.775789268597 L187.5 692.6966094060889 L225 704.5815157859828 L262.5 715.234999563674 L300 722.779065598943 L337.5 726.002479431639 L375 724.5815743658883 L412.5 719.1312825155095 L450 711.0771253502938 L487.5 702.3727039282726 L525 695.1163959877169 L562.5 691.1399999210986 L600 691.6473774750109 L600 900 Z" fill="hsl(58 40% 5%)"/>
+  <rect width="600" height="900" filter="url(#gpdev-m09)" opacity=".09"/>
+  <rect width="600" height="900" fill="url(#fadepdev-m09)"/><text x="44" y="766" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Suara dari</text><text x="44" y="840" font-size="68" font-weight="800" fill="#f5f1ea" font-family="system-ui,Segoe UI,Helvetica,Arial,sans-serif" letter-spacing="-1.5">Menara</text><text x="44" y="878" font-size="15" fill="#f5f1ea" opacity=".55" font-family="system-ui,sans-serif" letter-spacing="2">DATA PENGEMBANGAN</text></svg>
