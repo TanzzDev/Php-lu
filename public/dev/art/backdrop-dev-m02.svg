@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Lorong Terakhir">
+  <defs>
+    <linearGradient id="skybdev-m02" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="hsl(12 55% 9%)"/><stop offset=".55" stop-color="hsl(30 62% 24%)"/><stop offset="1" stop-color="hsl(46 70% 42%)"/>
+    </linearGradient>
+    <radialGradient id="sunbdev-m02" cx="0.72" cy=".52" r=".55">
+      <stop offset="0" stop-color="hsl(52 90% 72%)" stop-opacity=".9"/><stop offset=".35" stop-color="hsl(42 80% 55%)" stop-opacity=".35"/><stop offset="1" stop-color="hsl(12 60% 20%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadebdev-m02" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+    <filter id="gbdev-m02"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="56"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#skybdev-m02)"/>
+  <rect width="1600" height="900" fill="url(#sunbdev-m02)"/>
+  <circle cx="1152" cy="441" r="67.5" fill="hsl(57 95% 82%)" opacity=".92"/>
+  <path d="M0 900 L0 572.2096618875423 L100 585.3075431719554 L200 598.6111636376359 L300 609.8647642552021 L400 617.1213100526222 L500 619.1031997555414 L600 615.4397994676063 L700 606.7371653133571 L800 594.4668245233064 L900 580.6944623122988 L1000 567.6994163225037 L1100 557.5563535498177 L1200 551.7575433216227 L1300 550.9464211401787 L1400 554.8121185601219 L1500 562.164275201792 L1600 571.1734706452665 L1600 900 Z" fill="hsl(22 40% 13%)"/><path d="M0 900 L0 636.7773181431952 L100 651.5929964416356 L200 666.5879143616554 L300 679.1487901506138 L400 687.0240047140704 L500 688.7437312064843 L600 683.8963317738876 L700 673.2089726362267 L800 658.4171640878235 L900 641.9475720241259 L1000 626.4735094071322 L1100 614.4263989277732 L1200 607.5547066688475 L1300 606.6128375407703 L1400 611.237956050707 L1500 620.0372724404916 L1600 630.8686880377822 L1600 900 Z" fill="hsl(22 40% 9%)"/><path d="M0 900 L0 686.9323423308502 L100 695.6827217949252 L200 705.5020235086931 L300 714.2566255704126 L400 720.0870913385493 L500 721.76580845508 L600 718.9327702456472 L700 712.1649258424659 L800 702.8659815676854 L900 692.9974651633995 L1000 684.701871305467 L1100 679.8891353375631 L1200 679.8646806491187 L1300 685.0695320992193 L1400 694.9819410700387 L1500 708.1995895416782 L1600 722.6874518165934 L1600 900 Z" fill="hsl(22 40% 5%)"/>
+  <rect width="1600" height="900" filter="url(#gbdev-m02)" opacity=".09"/>
+  <rect width="1600" height="900" fill="url(#fadebdev-m02)"/></svg>
